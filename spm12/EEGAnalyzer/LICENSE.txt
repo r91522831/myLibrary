@@ -1,0 +1,23 @@
+The "EEG Analyzer" toolbox for SPM provides a user-friendly interface 
+for M/EEG visualization. It reads SPM M/EEG files and also offers basic 
+M/EEG filtering options. If present, events are also shown.
+
+Author : Rudy ERCEK (rercek@ulb.ac.be)
+Copyright © 2013-2018 - Université Libre de Bruxelles (ULB) 
+
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
+See file gpl-2.0.txt
