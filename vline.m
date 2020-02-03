@@ -90,9 +90,9 @@ else
         xrange=xx(2)-xx(1);
         xunit=(x-xx(1))/xrange;
         if xunit<0.8
-            text(x+0.01*xrange,y(1)+0.1*(y(2)-y(1)),label,'color',get(h,'color'))
+            text(x+0.01*xrange,y(1)+0.1*(y(2)-y(1)),label,'color',get(h,'color'), 'FontSize', 20)
         else
-            text(x-.05*xrange,y(1)+0.1*(y(2)-y(1)),label,'color',get(h,'color'))
+            text(x-.05*xrange,y(1)+0.1*(y(2)-y(1)),label,'color',get(h,'color'), 'FontSize', 20)
         end
     end     
 
